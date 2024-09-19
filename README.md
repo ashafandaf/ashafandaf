@@ -1,5 +1,5 @@
-<img alt="Coding" width="100%" src="https://media.tenor.com/2OFWSuuemfQAAAAM/studio-ghibli.gif">
-<h1 align="center">Hi 👋, I'm Ashfan Dafa Hibrizi</h1>
+<img alt="Coding" width="100%" src="https://media.tenor.com/fm8WAMB1DeoAAAAM/makuro-kuroski-studio-ghibli.gif">
+<h1 align="center">Hello, I'm Ashfan Dafa Hibrizi</h1>
 <h3 align="center">Still focused on front end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
