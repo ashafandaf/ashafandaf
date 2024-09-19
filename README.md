@@ -1,4 +1,4 @@
-<img alt="Coding" width="100%" src="https://tenor.com/id/view/minji-newjeans-minji-stressed-gif-12318695318754568472">
+<img alt="Coding" width="100%" src="https://media.tenor.com/2OFWSuuemfQAAAAM/studio-ghibli.gif">
 <h1 align="center">Hi 👋, I'm Ashfan Dafa Hibrizi</h1>
 <h3 align="center">Still focused on front end developer</h3>
 
