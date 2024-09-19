@@ -1,11 +1,11 @@
-<img alt="Coding" width="100%" src="https://tenor.com/tnjjTLe9sUg.gif">
+<img alt="Coding" width="100%" src="<div class="tenor-gif-embed" data-postid="16124669422062841834" data-share-method="host" data-aspect-ratio="0.801205" data-width="100%"><a href="https://tenor.com/view/minji-newjeans-minji-newjeans-oke-ok-gif-16124669422062841834">Minji Newjeans GIF</a>from <a href="https://tenor.com/search/minji-gifs">Minji GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 <h1 align="center">Hi 👋, I'm Ashfan Dafa Hibrizi</h1>
 <h3 align="center">Still focused on front end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/ashfan.dafa.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ashfan Dafa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashfandaf_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashfandaf_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashfan.dafa.9/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="Ashfan Dafa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashfandaf_/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" alt="ashfandaf_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
