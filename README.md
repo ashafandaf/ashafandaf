@@ -1,4 +1,4 @@
-<img alt="Coding" width="100%" src="<div class="tenor-gif-embed" data-postid="16124669422062841834" data-share-method="host" data-aspect-ratio="0.801205" data-width="100%"><a href="https://tenor.com/view/minji-newjeans-minji-newjeans-oke-ok-gif-16124669422062841834">Minji Newjeans GIF</a>from <a href="https://tenor.com/search/minji-gifs">Minji GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+<img alt="Coding" width="100%" src="https://tenor.com/id/view/minji-newjeans-minji-newjeans-oke-ok-gif-16124669422062841834">
 <h1 align="center">Hi 👋, I'm Ashfan Dafa Hibrizi</h1>
 <h3 align="center">Still focused on front end developer</h3>
 
